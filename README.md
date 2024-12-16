@@ -1,5 +1,3 @@
-# Social-Responsibility-Project
- 
 # Sosyal Sorumluluk Projesi: Gizemli Ada
 
 ## Proje Hedefi
