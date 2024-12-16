@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\keremozakca\\OneDrive\\Belgeler\\Visual Studio Projects\\Gizemli Ada\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0E1396C3-6E90-464C-A694-238A420663A7}|Gizemli Ada.vbproj|c:\\users\\keremozakca\\onedrive\\belgeler\\visual studio projects\\gizemli ada\\game.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{0E1396C3-6E90-464C-A694-238A420663A7}|Gizemli Ada.vbproj|solutionrelative:game.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E1396C3-6E90-464C-A694-238A420663A7}|Gizemli Ada.vbproj|c:\\users\\keremozakca\\onedrive\\belgeler\\visual studio projects\\gizemli ada\\game.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{0E1396C3-6E90-464C-A694-238A420663A7}|Gizemli Ada.vbproj|solutionrelative:game.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E1396C3-6E90-464C-A694-238A420663A7}|Gizemli Ada.vbproj|c:\\users\\keremozakca\\onedrive\\belgeler\\visual studio projects\\gizemli ada\\teamplayer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{0E1396C3-6E90-464C-A694-238A420663A7}|Gizemli Ada.vbproj|solutionrelative:teamplayer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E1396C3-6E90-464C-A694-238A420663A7}|Gizemli Ada.vbproj|c:\\users\\keremozakca\\onedrive\\belgeler\\visual studio projects\\gizemli ada\\gizemli ada.vbproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{0E1396C3-6E90-464C-A694-238A420663A7}|Gizemli Ada.vbproj|solutionrelative:gizemli ada.vbproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Gizemli Ada",
+              "DocumentMoniker": "C:\\Users\\keremozakca\\OneDrive\\Belgeler\\Visual Studio Projects\\Gizemli Ada\\Gizemli Ada.vbproj",
+              "RelativeDocumentMoniker": "Gizemli Ada.vbproj",
+              "ToolTip": "C:\\Users\\keremozakca\\OneDrive\\Belgeler\\Visual Studio Projects\\Gizemli Ada\\Gizemli Ada.vbproj",
+              "RelativeToolTip": "Gizemli Ada.vbproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003380|",
+              "WhenOpened": "2024-11-26T13:35:01.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TeamPlayer.vb",
+              "DocumentMoniker": "C:\\Users\\keremozakca\\OneDrive\\Belgeler\\Visual Studio Projects\\Gizemli Ada\\TeamPlayer.vb",
+              "RelativeDocumentMoniker": "TeamPlayer.vb",
+              "ToolTip": "C:\\Users\\keremozakca\\OneDrive\\Belgeler\\Visual Studio Projects\\Gizemli Ada\\TeamPlayer.vb",
+              "RelativeToolTip": "TeamPlayer.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-26T18:32:55.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Game.vb",
+              "DocumentMoniker": "C:\\Users\\keremozakca\\OneDrive\\Belgeler\\Visual Studio Projects\\Gizemli Ada\\Game.vb",
+              "RelativeDocumentMoniker": "Game.vb",
+              "ToolTip": "C:\\Users\\keremozakca\\OneDrive\\Belgeler\\Visual Studio Projects\\Gizemli Ada\\Game.vb",
+              "RelativeToolTip": "Game.vb",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAwCYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-26T13:29:30.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Game.vb [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\keremozakca\\OneDrive\\Belgeler\\Visual Studio Projects\\Gizemli Ada\\Game.vb",
+              "RelativeDocumentMoniker": "Game.vb",
+              "ToolTip": "C:\\Users\\keremozakca\\OneDrive\\Belgeler\\Visual Studio Projects\\Gizemli Ada\\Game.vb [Tasar\u0131m]",
+              "RelativeToolTip": "Game.vb [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-26T12:38:57.151Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+C:\Users\keremozakca\OneDrive\Belgeler\Visual Studio Projects\Gizemli Ada\bin\Release\net8.0-windows\Gizemli Ada.exe
+C:\Users\keremozakca\OneDrive\Belgeler\Visual Studio Projects\Gizemli Ada\bin\Release\net8.0-windows\Gizemli Ada.deps.json
+C:\Users\keremozakca\OneDrive\Belgeler\Visual Studio Projects\Gizemli Ada\bin\Release\net8.0-windows\Gizemli Ada.runtimeconfig.json
+C:\Users\keremozakca\OneDrive\Belgeler\Visual Studio Projects\Gizemli Ada\bin\Release\net8.0-windows\Gizemli Ada.dll
+C:\Users\keremozakca\OneDrive\Belgeler\Visual Studio Projects\Gizemli Ada\bin\Release\net8.0-windows\Gizemli Ada.pdb
+C:\Users\keremozakca\OneDrive\Belgeler\Visual Studio Projects\Gizemli Ada\obj\Release\net8.0-windows\Gizemli_Ada.Game.resources
+C:\Users\keremozakca\OneDrive\Belgeler\Visual Studio Projects\Gizemli Ada\obj\Release\net8.0-windows\Gizemli_Ada.Resources.resources
+C:\Users\keremozakca\OneDrive\Belgeler\Visual Studio Projects\Gizemli Ada\obj\Release\net8.0-windows\Gizemli Ada.vbproj.GenerateResource.cache
+C:\Users\keremozakca\OneDrive\Belgeler\Visual Studio Projects\Gizemli Ada\obj\Release\net8.0-windows\Gizemli Ada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\keremozakca\OneDrive\Belgeler\Visual Studio Projects\Gizemli Ada\obj\Release\net8.0-windows\Gizemli Ada.AssemblyInfoInputs.cache
+C:\Users\keremozakca\OneDrive\Belgeler\Visual Studio Projects\Gizemli Ada\obj\Release\net8.0-windows\Gizemli Ada.AssemblyInfo.vb
+C:\Users\keremozakca\OneDrive\Belgeler\Visual Studio Projects\Gizemli Ada\obj\Release\net8.0-windows\Gizemli Ada.vbproj.CoreCompileInputs.cache
+C:\Users\keremozakca\OneDrive\Belgeler\Visual Studio Projects\Gizemli Ada\obj\Release\net8.0-windows\Gizemli Ada.dll
+C:\Users\keremozakca\OneDrive\Belgeler\Visual Studio Projects\Gizemli Ada\obj\Release\net8.0-windows\refint\Gizemli Ada.dll
+C:\Users\keremozakca\OneDrive\Belgeler\Visual Studio Projects\Gizemli Ada\obj\Release\net8.0-windows\Gizemli Ada.pdb
+C:\Users\keremozakca\OneDrive\Belgeler\Visual Studio Projects\Gizemli Ada\obj\Release\net8.0-windows\Gizemli Ada.genruntimeconfig.cache
+C:\Users\keremozakca\OneDrive\Belgeler\Visual Studio Projects\Gizemli Ada\obj\Release\net8.0-windows\ref\Gizemli Ada.dll

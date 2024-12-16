@@ -1,0 +1,5 @@
+C:\Users\keremozakca\OneDrive\Masaüstü\Gizemli Ada.exe
+C:\Users\keremozakca\OneDrive\Masaüstü\Gizemli Ada.dll
+C:\Users\keremozakca\OneDrive\Masaüstü\Gizemli Ada.deps.json
+C:\Users\keremozakca\OneDrive\Masaüstü\Gizemli Ada.runtimeconfig.json
+C:\Users\keremozakca\OneDrive\Masaüstü\Gizemli Ada.pdb
