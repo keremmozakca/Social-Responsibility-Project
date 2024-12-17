@@ -12,6 +12,8 @@ Bu sosyal sorumluluk projemizde bir ilköğretim okuluna giderek okula teknik a�
 ## Oyun Tasarımı: Gizemli Ada
 Benim için oldukça eğlenceli bir süreç olan "Gizemli Ada" isimli oyunun tasarımını gerçekleştirdim. Bu oyun, **Visual Basic** dilinde ve **.NET teknolojisi** altyapısı ile geliştirildi. 
 
+![](gizemliAdaSS.png)
+
 ### Oyun Senaryosu
 **4 Gezgin Ekibi ve Gizemli Hazine Avı: Büyük Yarış Başlıyor!**
 
