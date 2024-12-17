@@ -15,9 +15,9 @@ Benim için oldukça eğlenceli bir süreç olan "Gizemli Ada" isimli oyunun tas
 ![](gizemliAdaSS.png)
 
 ### Oyun Senaryosu
-**4 Gezgin Ekibi ve Gizemli Hazine Avı: Büyük Yarış Başlıyor!**
+**3 Gezgin Ekibi ve Gizemli Hazine Avı: Büyük Yarış Başlıyor!**
 
-Düşünün ki bir oyun adasındasınız ve bu adanın derinliklerinde bir yerde gizli bir hazine saklı. 🌴💎 Dört farklı ülkeden gelen 4 gezgin ekibi, bu büyülü adada hazineyi bulmak için bir araya geliyor. Ancak bu, sadece bir yarış değil; strateji, ekip çalışması ve zamana karşı bir mücadele!
+Düşünün ki bir oyun adasındasınız ve bu adanın derinliklerinde bir yerde gizli bir hazine saklı. 🌴💎 Dört farklı ülkeden gelen 3 gezgin ekibi, bu büyülü adada hazineyi bulmak için bir araya geliyor. Ancak bu, sadece bir yarış değil; strateji, ekip çalışması ve zamana karşı bir mücadele!
 
 Her ekibin lideri, "Kodlayıcı" olarak adlandırılan bir yönlendirici. Bu liderler, ekiplerini doğru ipuçlarına ve hedefe ulaştırmak için stratejiler geliştiriyor. Ama unutmayın, bu yarışın bir sınırı var: Akşam olana kadar hazineyi bulmak zorundalar. Çünkü güneş battığında, adanın karanlık ormanları yırtıcı hayvanlarla dolup taşıyor ve hayatta kalmak çok daha zorlaşıyor.
 
